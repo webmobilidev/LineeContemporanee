@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.lineecontemporanee"
+            "PACKAGE_NAME": "com.lineecontemporanee.LineeContemporanee"
         }
     }
 }
